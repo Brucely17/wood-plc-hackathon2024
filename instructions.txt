@@ -1,0 +1,26 @@
+Go to Tailwindcss
+    type vite
+        follow the steps
+            npm create vite@latest ./ -- --template react
+            #./ is used to create project in same directory 
+
+            #install tailwind css
+
+#To add pretiness
+Create folder .vscode,file-settings.json
+copy the code from project folder in yr and paste it here,from readme
+
+
+#Modify the tailwind.config.js to adjust colours
+download from project readme
+
+
+#Paste index.css
+
+
+#Use react-router-dom
+npm install react-router-dom
+wrap the router in main.jsx
+
+#Parralax
+npm install react-just-parallax
